@@ -1,0 +1,101 @@
+.todo{
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+.imagen{
+    text-align: center;
+}
+
+.titol1{
+    color: red;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70%;
+    padding: 1%;
+}
+
+.titol2{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60%;
+    padding: 1%;
+}
+
+.bloque1{
+    border-collapse:collapse;
+    background-color: rgba(128, 128, 128, 0.712);
+    padding: 2%;
+}
+
+.referencia{
+    color: black;
+}
+
+.numeros {
+    color: black;
+    border-collapse: collapse;
+}
+
+.fecha{
+    color: black;
+}
+
+.titol3{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 90%;
+    padding: 1%;
+    font-weight: bold;
+}
+
+.bloque2{
+    border-collapse:collapse;
+    background-color: rgba(128, 128, 128, 0.712);
+    padding: 2%;
+}
+
+
+
+.gmail{
+    font-weight: bold;
+}
+
+.parte2{
+    padding:2%
+}
+
+.NT{
+    border-collapse:collapse;
+    background-color:  white;
+}
+.Reserva{
+    color: red;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70%;
+    padding: 1%;
+}
+
+hr {
+    height: 1px;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    margin-left: 0%;
+    margin-right: 0%;
+}
+.cantidad{
+    color: red;
+}
+.gastos{
+    text-align: right;
+    color: red;
+}
+.dinero {
+    color: black;
+}
+
+.reservatotal{
+    text-align: right;
+    color: red;
+}
