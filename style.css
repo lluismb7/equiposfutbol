@@ -1,0 +1,53 @@
+.primera {
+    width: 100%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+    height: 5px;
+    width: 100%;
+    background-color: red;
+}
+
+.segona {
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.numeros{
+    width: 10%;
+}
+
+.imagen{
+    width:5%;
+}
+
+.fotos{
+    height: 30px;
+    width: 30px;
+}
+.equipos{
+    width: 19%;
+}
+.puntos{
+    width: 10%;
+}
+
+.tercera {
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cuarta {
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cinquena {
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+table:nth-child(even) {
+    background-color: aliceblue;
+}
+
